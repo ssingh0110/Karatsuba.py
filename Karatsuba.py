@@ -4,7 +4,6 @@
         Return the product of two numbers in an efficient manner
         @author Shashank
         date: 23-09-2018
-        Hello
         Parameters
         ----------
         x : int
