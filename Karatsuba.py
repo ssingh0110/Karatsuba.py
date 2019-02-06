@@ -1,4 +1,4 @@
- def karatsuba(x,y):
+def karatsuba(x,y):
 
         """Karatsuba multiplication algorithm.
         Return the product of two numbers in an efficient manner
